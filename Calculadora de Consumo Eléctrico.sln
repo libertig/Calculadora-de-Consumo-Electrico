@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Calculadora de Consumo Eléctrico", "Calculadora de Consumo Eléctrico\Calculadora de Consumo Eléctrico.vbproj", "{4DFD4EE0-0DD7-4239-A02B-EB53842CBB1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFD4EE0-0DD7-4239-A02B-EB53842CBB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFD4EE0-0DD7-4239-A02B-EB53842CBB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFD4EE0-0DD7-4239-A02B-EB53842CBB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFD4EE0-0DD7-4239-A02B-EB53842CBB1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED7BC70-CF7D-4294-8086-6939EE6CAB9F}
+	EndGlobalSection
+EndGlobal
